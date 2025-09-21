@@ -102,7 +102,7 @@
       "KC_DOT",
       "KC_SLSH",
       "KC_NO",
-      "KC_RSFT",
+      "MT(MOD_LALT | MOD_LGUI,KC_RSFT)",
       "KC_UP",
       "KC_NO",
       "KC_NO",
